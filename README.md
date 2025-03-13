@@ -1,16 +1,17 @@
-## Hi there 👋
+### Sobre mim ###
+🔭 **Atualmente estou trabalhando com**: **HTML5, CSS, Javascript**, **Spring Boot**, **Java** e **Banco de Dados**   
+🌱 **Estudando**: **Análise e desenvolvimento de sistemas** & **Bacharelado em tecnologia da Informação**  
+💬 **vamos conversar sobre**: **Dev web**, **Desenvolvimento de sistemas**, **Arquitetura de Software**<br>
+📫 **Como me encontrar**: [LinkedIn FogacaDev](https://www.linkedin.com/in/fogacadev/)<br> 
+⚡ **Curiosidade**: Sempre busco me atualizar e aprender algo novo todos os dias!<br>
+🚀 Tecnologias que estou tendo contato:<br>
 
-<!--
-**FogacaDev/FogacaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+</p>
