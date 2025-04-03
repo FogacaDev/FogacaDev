@@ -2,9 +2,12 @@
 🔭 **Atualmente estou trabalhando com**: **HTML5, CSS, Javascript**, **Spring Boot**, **Java** e **Banco de Dados**   
 🌱 **Estudando**: **Análise e desenvolvimento de sistemas** & **Bacharelado em tecnologia da Informação**  
 💬 **vamos conversar sobre**: **Dev web**, **Desenvolvimento de sistemas**, **Arquitetura de Software**<br>
-📫 **Como me encontrar**: [LinkedIn FogacaDev](https://www.linkedin.com/in/fogacadev/)<br> 
 ⚡ **Curiosidade**: Sempre busco me atualizar e aprender algo novo todos os dias!<br>
 🚀 Tecnologias que estou tendo contato:<br>
+📫 Como me encontrar: <a href="https://www.linkedin.com/in/fogacadev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
