@@ -18,4 +18,4 @@
 
 ## Linguagens mais usadas
 
-![GitHub Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10)
+![GitHub Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10&bg_color=2E0038)
