@@ -15,5 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
-[![GitHub Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10
-)
+
+## Linguagens mais usadas
+
+![GitHub Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10)
