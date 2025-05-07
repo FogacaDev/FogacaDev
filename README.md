@@ -1,6 +1,7 @@
 ## 🙏 **Obrigado pela visita, Gratidão!**
 
-![Visitantes](https://count.getloli.com/get/@FogacaDev?theme=rule34)
+![Contador de Visitas](https://komarev.com/ghpvc/?username=FogacaDev&style=flat-square&color=blue)
+
 
 
 ### Sobre mim ###
