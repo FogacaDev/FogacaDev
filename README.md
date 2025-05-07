@@ -1,6 +1,7 @@
 ## 🙏 **Obrigado pela visita, Gratidão!**
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=FogacaDev.FogacaDev)
+![Visitantes](https://count.getloli.com/get/@FogacaDev?theme=rule34)
+
 
 ### Sobre mim ###
 🔭 **Atualmente estou trabalhando com**: **HTML5, CSS, Javascript**, **Spring Boot**, **Java** e **Banco de Dados**  
