@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" alt="RF Infotech Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" alt="RF Infotech Logo" style="width: 100%; height: auto;"/>
 </p>
+
 ## 🙏 **Obrigado pela visita, Gratidão!**
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=FogacaDev&style=flat-square&color=blue)
