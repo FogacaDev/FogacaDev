@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/logo_Image_gm80_RF.InfoTech.png" alt="RF Infotech Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" alt="RF Infotech Logo" width="400"/>
 </p>
 ## 🙏 **Obrigado pela visita, Gratidão!**
 
