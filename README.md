@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" alt="RF Infotech Logo" style="width: 100%; height: 400px; object-fit: cover;"/>
+  <img 
+    src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" 
+    alt="RF Infotech Logo" 
+    style="width: 100%; max-width: 100%; height: 400px; object-fit: cover;"/>
 </p>
+
 
 
 
