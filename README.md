@@ -43,9 +43,9 @@
 
 ## 📜 Certificações
 
-- 🏅 Tecnólogo - Análise e Desenvolvimento de Sistemas
-- 🤖 Bacharelado - Tecnologia da Informação
-- 🧪 Técnico - Química 
+- 🏅 Tecnólogo - Análise e Desenvolvimento de Sistemas - UNIVESP
+- 🤖 Bacharelado - Tecnologia da Informação - UNINOVE
+- 🧪 Técnico - Química - Dom Pedro I
 - 📊 Vontade de aprender
 
 ---
