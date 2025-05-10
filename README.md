@@ -12,9 +12,9 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-🔭 **Atualmente trabalhando com**: HTML5, CSS3, JavaScript, Java (Spring Boot) e Banco de Dados  
-🌱 **Estudando**: Análise e Desenvolvimento de Sistemas & Bacharelado em Tecnologia da Informação  
-💬 **Vamos conversar sobre**: Desenvolvimento Web, Back-end Java, Sistemas e Programação  
+🔭 **Atualmente trabalhando com**: Desenvolvimento Web Full-Stack
+🌱 **Estudando**: Frameworks como React, Spring boot, Angular, Typescript 
+💬 **Vamos conversar sobre**: Desenvolvimento Web, Estrutura de Software, Sistemas e Programação  
 ⚡ **Curiosidade**: Sempre busco me atualizar e aprender algo novo todos os dias!
 
 ---
@@ -44,7 +44,8 @@
 ## 📜 Certificações
 
 - 🏅 Tecnólogo - Análise e Desenvolvimento de Sistemas
-- 🤖 Bacharelado - Tecnologia da Informação 
+- 🤖 Bacharelado - Tecnologia da Informação
+- 🧪 Técnico - Química 
 - 📊 Vontade de aprender
 
 ---
