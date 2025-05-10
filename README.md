@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧠 Tecnologias e Ferramentas 🧪
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -67,18 +66,6 @@
 
 ---
 
-## 🧪 Skills e Conhecimentos
-
-- **HTML** ![HTML](https://progress-bar.dev/90/?title=HTML&width=150)
-- **CSS** ![CSS](https://progress-bar.dev/85/?title=CSS&width=150)
-- **JavaScript** ![JS](https://progress-bar.dev/75/?title=JavaScript&width=150)
-- **Java** ![Java](https://progress-bar.dev/80/?title=Java&width=150)
-- **Spring Boot** ![Spring](https://progress-bar.dev/70/?title=Spring%20Boot&width=150)
-- **Node.js** ![Node](https://progress-bar.dev/65/?title=Node.js&width=150)
-
-
----
-
 ## 📫 Como me encontrar:
 
 <p>
@@ -98,13 +85,6 @@
     <img src="https://img.shields.io/badge/YouTube-DeathrashGames-FF0000?style=for-the-badge&logo=youtube" alt="YouTube Badge"/>
   </a>
 </p>
-
----
-
-## 🐍 Contribuições Recentes (Snake Animation)
-
-![Snake animation](https://github.com/FogacaDev/FogacaDev/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
