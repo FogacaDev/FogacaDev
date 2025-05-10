@@ -92,5 +92,8 @@
 ## 🙏 Obrigado pela visita, Gratidão!
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=FogacaDev&style=flat-square&color=blue)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FogacaDev/seurepositorio&count_bg=%2300C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
+![Contador de Visitas](https://komarev.com/ghpvc/?username=FogacaDev&style=for-the-badge&color=0abde3)
+![Visitantes](https://img.shields.io/badge/Visitantes-🔵%20123k-blue?style=for-the-badge&logo=github)
+![Visitantes](https://revolutionize.github.io/github-profile-views-badge/badge.svg?username=FogacaDev)
+
 
