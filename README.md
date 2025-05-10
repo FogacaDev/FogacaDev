@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" alt="RF Infotech Logo" style="width: auto; height: auto;"/>
+  <img src="https://raw.githubusercontent.com/FogacaDev/FogacaDev/main/InfoTech.png" alt="RF Infotech Logo" style="width: 100%; height: auto;"/>
 </p>
 
 
@@ -27,6 +27,9 @@
 
 ## Tecnologias mais usadas
 ![GitHub Tecnologias Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10&bg_color=8A4FFF&text_color=FFFFFF&title_color=000000)
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FogacaDev&show_icons=true&theme=radical&bg_color=8A4FFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" alt="Estatísticas do GitHub"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=FogacaDev&theme=radical&background=8A4FFF&border=FFFFFF&ring=FFD700&currStreakLabel=FFD700&dates=FFFFFF" alt="Streak GitHub"/> </p>
 
 ## 📫 Como me encontrar:
 <p>
