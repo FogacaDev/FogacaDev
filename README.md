@@ -34,20 +34,19 @@
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Currículo Web
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
 | [Portfólio](https://fogacadev.github.io/portifolio/) | Meu site pessoal com projetos e habilidades | HTML, CSS, JavaScript |
-| [Resgata Dog](https://github.com/FogacaDev/resgatadog) | Plataforma de adoção de cães e doações para ONGs | Java, Spring Boot, MySQL |
 
 ---
 
 ## 📜 Certificações
 
-- 🏅 Especialização em Aplicações Móveis  
-- 🤖 Inteligência Artificial com Machine Learning  
-- 📊 IA aplicada à Ciência de Dados
+- 🏅 Tecnólogo - Análise e Desenvolvimento de Sistemas
+- 🤖 Bacharelado - Tecnologia da Informação 
+- 📊 Vontade de aprender
 
 ---
 
@@ -70,12 +69,13 @@
 
 ## 🧪 Skills e Conhecimentos
 
-- HTML ![HTML](https://progress-bar.dev/90/?title=HTML&width=150)
-- CSS ![CSS](https://progress-bar.dev/85/?title=CSS&width=150)
-- JavaScript ![JS](https://progress-bar.dev/75/?title=JavaScript&width=150)
-- Java ![Java](https://progress-bar.dev/80/?title=Java&width=150)
-- Spring Boot ![Spring](https://progress-bar.dev/70/?title=Spring%20Boot&width=150)
-- Node.js ![Node](https://progress-bar.dev/65/?title=Node.js&width=150)
+- **HTML** ![HTML](https://progress-bar.dev/90/?title=HTML&width=150)
+- **CSS** ![CSS](https://progress-bar.dev/85/?title=CSS&width=150)
+- **JavaScript** ![JS](https://progress-bar.dev/75/?title=JavaScript&width=150)
+- **Java** ![Java](https://progress-bar.dev/80/?title=Java&width=150)
+- **Spring Boot** ![Spring](https://progress-bar.dev/70/?title=Spring%20Boot&width=150)
+- **Node.js** ![Node](https://progress-bar.dev/65/?title=Node.js&width=150)
+
 
 ---
 
@@ -103,7 +103,8 @@
 
 ## 🐍 Contribuições Recentes (Snake Animation)
 
-![snake gif](https://github.com/FogacaDev/FogacaDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FogacaDev/FogacaDev/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
