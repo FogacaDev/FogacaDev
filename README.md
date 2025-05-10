@@ -25,10 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 </p>
 
-## Tecnologias mais usadas
-![GitHub Tecnologias Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10&bg_color=8A4FFF&text_color=FFFFFF&title_color=000000) 
 
-📊 GitHub Stats
+
+📊 GitHub Stats / ## Tecnologias mais usadas
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FogacaDev&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaDev&layout=compact&langs_count=10&theme=github_dark&hide_border=false"/> </div>
 
 
