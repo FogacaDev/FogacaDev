@@ -90,10 +90,6 @@
 ---
 
 ## 🙏 Obrigado pela visita, Gratidão!
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=FogacaDev&style=flat-square&color=blue)
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=FogacaDev&style=for-the-badge&color=0abde3)
-![Visitantes](https://img.shields.io/badge/Visitantes-🔵%20123k-blue?style=for-the-badge&logo=github)
-![Visitantes](https://revolutionize.github.io/github-profile-views-badge/badge.svg?username=FogacaDev)
 
 
