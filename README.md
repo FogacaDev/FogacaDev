@@ -15,7 +15,7 @@
 🔭 **Atualmente trabalhando com**: Desenvolvimento Web Full-Stack\
 🌱 **Estudando**: Frameworks como React, Spring boot, Angular, Typescript\
 💬 **Vamos conversar sobre**: Desenvolvimento Web, Estrutura de Software, Sistemas e Programação\
-⚡ **Curiosidade**: Sempre busco me atualizar e aprender algo novo todos os dias!\
+⚡ **Curiosidade**: Sempre busco me atualizar e aprender algo novo todos os dias! 
 
 ---
 
